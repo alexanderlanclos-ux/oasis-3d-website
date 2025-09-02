@@ -1,0 +1,36 @@
+{
+  "name": "oasis-media-3d-website",
+  "version": "1.0.0",
+  "description": "Oasis Media Group - Interactive 3D Showcase Website",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@react-three/fiber": "^8.15.11",
+    "@react-three/drei": "^9.88.17",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.1",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "3D",
+    "interactive",
+    "website",
+    "react",
+    "three.js",
+    "oasis",
+    "media"
+  ],
+  "author": "Oasis Media Group",
+  "license": "MIT"
+}
